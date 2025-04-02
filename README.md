@@ -2,7 +2,7 @@
 
 Soy desarrolladora en formación, actualmente finalizando el ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (FP DAM)** y complementando mis estudios con un **bootcamp Full Stack en 4Geeks Academy**.
 
-Durante este proceso he adquirido y reforzado conocimientos técnicos, trabajando en proyectos prácticos con enfoque en buenas prácticas, lógica de programación y desarrollo web completo.
+Durante este proceso he reforzado conocimientos técnicos trabajando en proyectos prácticos, aplicando buenas prácticas, lógica de programación y desarrollo web completo.
 
 ---
 
@@ -19,10 +19,10 @@ Durante este proceso he adquirido y reforzado conocimientos técnicos, trabajand
 ## 🧩 Proyectos destacados:
 
 - 🔧 [**Generador de Excusas**](https://github.com/Nelgarpa/GeneradorExcusas)  
-  Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
+  Aplicación que genera frases aleatorias combinando estructuras con JavaScript. Proyecto enfocado en lógica, funciones y manipulación del DOM.
 
 - 🖼️ [**Instagram Photo Feed**](https://github.com/Nelgarpa/InstagramPhotoFeed)  
-  Clon visual de un feed de Instagram usando HTML y CSS. Ejercicio práctico de maquetación y diseño responsive.
+  Clon visual de un feed de Instagram usando HTML y CSS. Proyecto orientado a maquetación y diseño responsive.
 
 ---
 
