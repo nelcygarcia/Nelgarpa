@@ -36,7 +36,6 @@ Estoy enfocado en profundizar mis habilidades técnicas en tecnologías front-en
 Estoy disponible para colaborar en proyectos o explorar oportunidades laborales:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
-- 📧 📧 [tunombre@gmail.com](mailto:nelgarpa22@gmail.com)
 
 
 ---
