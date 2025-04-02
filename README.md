@@ -21,7 +21,6 @@ Estoy enfocado en profundizar mis habilidades técnicas en tecnologías front-en
 
 | Proyecto | Descripción | Demo |
 | -------- | ----------- | ---- |
-| [Instagram Photo Feed](https://github.com/Nelgarpa/InstagramPhotoFeed) | Maquetación responsive con HTML y CSS | [Ver Proyecto](#) |
 | [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas) | App web interactiva generadora de excusas aleatorias en JavaScript | [Ver Proyecto](#) |
 | [Instagram Bootstrap](https://github.com/Nelgarpa/InstagramBootstrap) | Clon visual de Instagram usando Bootstrap | [Ver Proyecto](#) |
 
