@@ -2,9 +2,8 @@
 
 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y Full Stack Developer**
 
-Actualmente estoy finalizando mi Formación Profesional en **Desarrollo de Aplicaciones Multiplataforma (DAM)** en **Ilerna** y complementando mi aprendizaje con un bootcamp intensivo de **Desarrollo Web Full Stack** en **4Geeks Academy**. 
-
-Estoy enfocado en profundizar mis habilidades técnicas en tecnologías front-end y desarrollo web moderno, especialmente con:
+## 👩‍💻 Acerca de Mí
+Soy desarrolladora en formación, apasionada por crear soluciones web eficientes y atractivas. Actualmente, estoy buscando mi primera oportunidad laboral como desarrolladora junior, donde pueda aplicar mis conocimientos y seguir aprendiendo en un entorno profesional.
 
 ## ⚙️ Tecnologías Principales
 
@@ -16,14 +15,14 @@ Estoy enfocado en profundizar mis habilidades técnicas en tecnologías front-en
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Además cuento con conocimientos en:** Python, Flask, SQL.
 
 ## 🚀 Proyectos Recientes
 
-| Proyecto | Descripción | Demo |
-| -------- | ----------- | ---- |
-| [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas) | App web interactiva generadora de excusas aleatorias en JavaScript | [Ver Proyecto](#) |
-| [Instagram Bootstrap](https://github.com/Nelgarpa/InstagramBootstrap) | Clon visual de Instagram usando Bootstrap | [Ver Proyecto](#) |
+- [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas): Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
+- [Instagram Photo Feed](https://github.com/Nelgarpa/InstagramPhotoFeed): Clon visual de un feed de Instagram usando HTML y CSS. Ejercicio práctico de maquetación y diseño responsive.
 
+- 
 ## 🌱 Actualmente
 
 - 📚 Finalizando mi FP DAM en **Ilerna**.
