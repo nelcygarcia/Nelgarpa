@@ -6,17 +6,17 @@ Durante este proceso he adquirido y reforzado conocimientos técnicos, trabajand
 
 ---
 
-## 💻 Tecnologías y herramientas que manejo
+## 💻 Tecnologías y herramientas que manejo:
 
 - **Frontend:** HTML5, CSS3, JavaScript, React  
 - **Backend:** Python, Flask  
 - **Bases de datos:** SQL  
 - **Control de versiones:** Git, GitHub  
-- **Despliegue:** Implementación en plataformas web
+- **Despliegue:** Implementación de proyectos en plataformas web
 
 ---
 
-## 🧩 Proyectos destacados
+## 🧩 Proyectos destacados:
 
 - 🔧 [**Generador de Excusas**](https://github.com/Nelgarpa/GeneradorExcusas)  
   Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
