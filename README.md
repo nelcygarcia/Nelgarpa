@@ -5,6 +5,9 @@
 ## 👩‍💻 Acerca de Mí
 Soy desarrolladora en formación, apasionada por crear soluciones web eficientes y atractivas. Actualmente, estoy buscando mi primera oportunidad laboral como desarrolladora junior, donde pueda aplicar mis conocimientos y seguir aprendiendo en un entorno profesional.
 
+  ## 🚩 Mis objetivos
+Mi meta principal es seguir creciendo en el ámbito del desarrollo web, aprendiendo nuevas tecnologías y participando en proyectos innovadores que aporten valor real.
+
 ## ⚙️ Tecnologías Principales
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -17,16 +20,12 @@ Soy desarrolladora en formación, apasionada por crear soluciones web eficientes
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - **Además cuento con conocimientos en:** Python, Flask, SQL.
 
-  ## 🚩 Mis objetivos
-Mi meta principal es seguir creciendo en el ámbito del desarrollo web, aprendiendo nuevas tecnologías y participando en proyectos innovadores que aporten valor real.
-
 ## 🚀 Proyectos Recientes
 
 - [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas): Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
 - [Instagram Photo Feed](https://github.com/Nelgarpa/InstagramPhotoFeed): Clon visual de un feed de Instagram usando HTML y CSS. Ejercicio práctico de maquetación y diseño responsive.
 
-  
-## 🌱 Actualmente
+  ## 🌱 Actualmente
 
 - 📚 Finalizando mi FP DAM en **Ilerna**.
 - 💻 Bootcamp intensivo Full Stack en **4Geeks Academy**.
@@ -37,7 +36,6 @@ Mi meta principal es seguir creciendo en el ámbito del desarrollo web, aprendie
 Estoy disponible para colaborar en proyectos o explorar oportunidades laborales:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
-
 
 ---
 
