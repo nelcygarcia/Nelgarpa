@@ -22,7 +22,7 @@ Soy desarrolladora en formación, apasionada por crear soluciones web eficientes
 - [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas): Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
 - [Instagram Photo Feed](https://github.com/Nelgarpa/InstagramPhotoFeed): Clon visual de un feed de Instagram usando HTML y CSS. Ejercicio práctico de maquetación y diseño responsive.
 
-- 
+  
 ## 🌱 Actualmente
 
 - 📚 Finalizando mi FP DAM en **Ilerna**.
