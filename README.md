@@ -17,6 +17,9 @@ Soy desarrolladora en formación, apasionada por crear soluciones web eficientes
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 - **Además cuento con conocimientos en:** Python, Flask, SQL.
 
+  ## 🚩 Mis objetivos
+Mi meta principal es seguir creciendo en el ámbito del desarrollo web, aprendiendo nuevas tecnologías y participando en proyectos innovadores que aporten valor real.
+
 ## 🚀 Proyectos Recientes
 
 - [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas): Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
