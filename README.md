@@ -1,4 +1,4 @@
-# 👋 <h1 aling ="center"> Hola, soy Nelcy Garcia <h1>
+# <h1  aling ="center">  👋 Hola, soy Nelcy Garcia <h1>
 
 **Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y Full Stack Developer**
 
