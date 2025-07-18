@@ -1,12 +1,6 @@
+<h1 align="center"> 🚀Bienvenida/o  a mi perfil de GitHub 👋</h1>
 <p align="center">
-  <img src="./banner-nelcy(2).png" alt="Banner de Nelcy García Full Stack Developer" width="50%" />
-</p>
-
-<h1 align="center">¡Hola! Soy Nelcy García 👋</h1>
-<p align="center">
-  💻 Desarrolladora Full Stack con conocimientos sólidos en tecnologías modernas y experiencia real conectando backend y frontend.<br />
-  Apasionada por resolver problemas con código limpio, diseño funcional y enfoque humano.<br />
-  Busco formar parte de un equipo donde seguir creciendo y aportando valor 🚀
+  💻 Desarrolladora Full Stack con experiencia en aplicaciones web y móviles usando Python (Flask), React, SpringBoot, Kotlin, MySQL y APIs RESTful. Manejo el control de versiones en GitHub. Orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo.🚀
 </p>
 
 ---
