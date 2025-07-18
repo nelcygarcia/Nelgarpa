@@ -1,4 +1,4 @@
-<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="100%"/>
+<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="40%"/>
 
 <h1 align="center">✨ ¡Hola! Soy Nelcy García</h1>
 <h3 align="center">💻 Full Stack Developer | React · Flask · Spring Boot · MySQL · Node.js</h3>
