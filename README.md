@@ -1,42 +1,70 @@
-# <h1  aling ="center">  👋 Hola, soy Nelcy Garcia <h1>
+<img src="https://github.com/nelcygarcia/CV-NelcyGarcia/blob/main/banner-nelcy.png" alt="Banner de Nelcy García Full Stack Developer" width="100%"/>
 
-**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) y Full Stack Developer**
-
-## 👩‍💻 Acerca de Mí
-Soy desarrolladora en formación, apasionada por crear soluciones web eficientes y atractivas. Actualmente, estoy buscando mi primera oportunidad laboral como desarrolladora junior, donde pueda aplicar mis conocimientos y seguir aprendiendo en un entorno profesional.
-
-  ## 🚩 Mis objetivos
-Mi meta principal es seguir creciendo en el ámbito del desarrollo web, aprendiendo nuevas tecnologías y participando en proyectos innovadores que aporten valor real.
-
-## ⚙️ Tecnologías Principales
-
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-- **Además cuento con conocimientos en:** Python, Flask, SQL.
-
-## 🚀 Proyectos Recientes
-
-- [Generador de Excusas](https://github.com/Nelgarpa/GeneradorExcusas): Aplicación que genera frases aleatorias combinando estructuras en JavaScript. Proyecto orientado al uso de funciones, arrays y manipulación del DOM.
-- [Instagram Photo Feed](https://github.com/Nelgarpa/InstagramPhotoFeed): Clon visual de un feed de Instagram usando HTML y CSS. Ejercicio práctico de maquetación y diseño responsive.
-
-  ## 🌱 Actualmente
-
-- 📚 Finalizando mi FP DAM en **Ilerna**.
-- 💻 Bootcamp intensivo Full Stack en **4Geeks Academy**.
-- 🔍 Buscando oportunidades para proyectos colaborativos y empleos en desarrollo web.
-
-## 📫 Contáctame
-
-Estoy disponible para colaborar en proyectos o explorar oportunidades laborales:
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nelcy-garc%C3%ADa-56b97111b/)
+<h1 align="center">✨ ¡Hola! Soy Nelcy García</h1>
+<h3 align="center">💻 Full Stack Developer | React · Flask · Spring Boot · MySQL · Node.js</h3>
 
 ---
 
-✨ ¡Gracias por visitar mi perfil! ✨
+<p align="center">
+🎯 Transformo ideas en soluciones funcionales con impacto real.<br>
+🚀 Apasionada por el aprendizaje continuo y el desarrollo de productos útiles.<br>
+🎓 Formación en DAM + Bootcamp Full Stack en 4Geeks Academy.
+</p>
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+</p>
+
+---
+
+### 💼 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| [QuizBoss](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss) | Juego de preguntas estilo videojuego. | React, Bootstrap, Router, Auth |
+| [FicharteApp](https://github.com/nelcygarcia/FicharteApp) | App de fichaje de empleados con estadísticas. | Android, Kotlin, Spring Boot |
+| [AsistenciaBack](https://github.com/nelcygarcia/AsistenciaBack) | Backend REST con JWT para app de control de asistencia. | Spring Boot, MySQL |
+
+---
+
+### 📊 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nelcygarcia&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcygarcia&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+### 📄 Recursos
+
+📎 [CV actualizado](https://bit.ly/NelcyFullStackCV)  
+📦 [Repositorio de CV en GitHub](https://github.com/nelcygarcia/CV-NelcyGarcia)
+
+---
+
+### 🌐 Conectemos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nelcy-garcia/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nelgarpa22@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nelcygarcia" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
