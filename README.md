@@ -8,7 +8,6 @@
 ### 📡 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelcy-garcia)
-[![Email](https://img.shields.io/badge/-nelgarpa22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nelgarpa22@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nelcygarcia)
 [![CV](https://img.shields.io/badge/-Ver%20mi%20CV-ff69b4?style=flat&logo=read-the-docs&logoColor=white)](https://bit.ly/NelcyFullStackCV)
 
