@@ -1,53 +1,54 @@
 <p align="center">
-  <img src="./banner-nelcy.png" alt="Banner de presentación" width="50%" />
+  <img src="./banner-nelcy(2).png" alt="Banner de Nelcy García Full Stack Developer" width="50%" />
 </p>
 
-<h2 align="center">¡Hola, soy Nelcy García! 👋</h2>
+<h1 align="center">¡Hola! Soy Nelcy García 👋</h1>
 <p align="center">
-  💻 Full Stack Developer | React | Python | Spring Boot | MySQL
+  💻 Desarrolladora Full Stack con conocimientos sólidos en tecnologías modernas y experiencia real conectando backend y frontend.<br />
+  Apasionada por resolver problemas con código limpio, diseño funcional y enfoque humano.<br />
+  Busco formar parte de un equipo donde seguir creciendo y aportando valor 🚀
 </p>
 
 ---
 
-### 📬 Conectemos
-<p align="left">
-  <a href="https://www.linkedin.com/in/nelcy-garcia/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nelcygarcia22@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/nelcygarcia" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/nelcygarcia" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+### 📡 Conecta conmigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nelcy-garcia)
+[![Email](https://img.shields.io/badge/-nelgarpa22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nelgarpa22@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nelcygarcia)
+[![CV](https://img.shields.io/badge/-Ver%20mi%20CV-ff69b4?style=flat&logo=read-the-docs&logoColor=white)](https://bit.ly/NelcyFullStackCV)
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,spring,mysql,bootstrap,jwt,vercel,render,postman,git,github" />
-</p>
+### ⚙️ Tecnologías que manejo
+
+<p align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" /> </p>
 
 ---
-
-### 🌟 Proyectos Destacados
-
-- 🛒 [Lista de la Compra](https://github.com/nelcygarcia/lista-compra)
-- 📒 [Agenda Médica](https://github.com/nelcygarcia/agenda-medica)
-- 🚀 [TourneyHub (proyecto final Bootcamp)](https://github.com/nelcygarcia/tourneyhub)
-- 🛠️ [App Empresa Reformas](https://github.com/nelcygarcia/app-reformas)
-- 👨‍🍳 [Pasapalos - Asistencia Empleados](https://github.com/nelcygarcia/pasapalos)
-
----
-
 ### 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nelcygarcia&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcygarcia&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nelcygarcia&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelcygarcia&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
 
-### 📌 Contribuciones y repositorios recientes
-<p align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nelcygarcia&theme=tokyonight" alt="Gráfico de actividad" />
-</p>
+### 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🎮 [**QuizBoss**](https://github.com/nelcygarcia/Proyecto_Final_4Geeks_QuizBoss) | Juego tipo trivia para practicar conocimientos de forma divertida. Incluye selección de avatar, niveles y puntuación. | React · Bootstrap · Python · Flask · JWT |
+| 📲 [**Pasapalos App - Frontend**](https://github.com/nelcygarcia/FicharteApp) | Aplicación móvil para gestionar la asistencia del personal en un restaurante. | Android · Kotlin |
+| 🔧 [**Pasapalos App - Backend**](https://github.com/nelcygarcia/AsistenciaBack) | API REST para registrar empleados, fichajes, estadísticas y usuarios. | Java · Spring Boot · MySQL |
+| 🛒 [**Lista de la compra inteligente**](https://github.com/nelcygarcia/lista-de-la-compra) | App web para crear listas categorizadas por tipo de productos (frutas, limpieza, etc.) con diseño atractivo. | React · Bootstrap |
+
+---
+
+### 🏅 Certificación
+
+📜 [Certificado Full Stack Developer – 4Geeks Academy](./certificado.pdf)
+
+---
+
+
